@@ -1,6 +1,6 @@
 # 💫 About Me: 
 Hi, i'm Davide Marino AKA Marinovs <br>
-🔭 Backend developer  for Timegroup SRL<br>🪙 Blockchain Developer<br>🌱 I’m currently learning React JS<br>👥 Love collaborate with people
+🔭 Backend developer  for Timegroup SRL<br>🪙 Blockchain Developer<br>👥 Love collaborate with people
 
 
 ## 🌐 Socials:
